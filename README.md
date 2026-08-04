@@ -1,4 +1,4 @@
-🐍 DecodeLabs Python Internship
+## 🐍 DecodeLabs Python Internship
 
 Welcome to my DecodeLabs Python Internship repository!
 
@@ -8,7 +8,7 @@ This repository contains my Python internship projects completed as part of the 
 
 Projects :
 
-✅ Task 1 – To-Do List
+## ✅ Task 1 – To-Do List
 
 A simple command-line To-Do List application that allows users to manage their daily tasks.
 
@@ -27,7 +27,7 @@ Concepts Used :
 
 ---
 
-✅ Task 2 – Expense Tracker
+## ✅ Task 2 – Expense Tracker
 
 A command-line Expense Tracker that allows users to enter expenses and calculates the total amount spent.
 
@@ -48,19 +48,35 @@ Concepts Used :
 - User Input
 - Mathematical Operators
 
+## ▶️ Example
+```
+Enter expense 1: 100
+
+Enter expense 2: abc
+
+Invalid Data. Try again.
+
+Enter expense 2: 50
+
+Enter expense 3: 0
+
+Total expense: 150
+
+Number of Expenses: 2
+```
 ---
 
-✅ Task 3 – Password Generator
+## ✅ Task 3 – Password Generator
 
 A simple Python program that generates a secure random password based on the length entered by the user.
 
 Features:
 
-- Generates random passwords of any user-defined length
-- Uses uppercase and lowercase letters, digits, and special characters
-- Validates user input to ensure the password length is a positive number
-- Handles invalid input using exception handling (`try-except`)
-- Generates a new secure password every time the program runs
+- 💻 Generates random passwords of any user-defined length
+- 📋 Uses uppercase and lowercase letters, digits, and special characters
+- ❗ Validates user input to ensure the password length is a positive number
+- ⚠️ Handles invalid input using exception handling (`try-except`)
+- 🔄 Generates a new secure password every time the program runs
 
 Concepts Used:
 
@@ -79,14 +95,25 @@ Enter password length: 10
 Password: A8#kP2@mQ!
 ```
 
-📌 How It Works
+## 📌 How It Works
 
 1. The user enters the desired password length.
 2. The program validates the input.
 3. A secure random password is generated using letters, numbers, and special characters.
 4. The generated password is displayed to the user.
 
-🎯 Purpose
+## 🛠 Technologies Used
+
+- Python 3
+- Variables
+- Lists
+- Loops
+- Conditional Statements
+- Exception Handling
+- User Input
+- Basic Data Processing
+
+## 🎯 Purpose
 
 These projects were developed to strengthen my Python fundamentals, logical thinking, and problem-solving skills during the DecodeLabs Python Internship.
 
