@@ -50,6 +50,42 @@ Concepts Used :
 
 ---
 
+✅ Task 3 – Password Generator
+
+A simple Python program that generates a secure random password based on the length entered by the user.
+
+Features:
+
+- Generates random passwords of any user-defined length
+- Uses uppercase and lowercase letters, digits, and special characters
+- Validates user input to ensure the password length is a positive number
+- Handles invalid input using exception handling (`try-except`)
+- Generates a new secure password every time the program runs
+
+Concepts Used:
+
+- Python Modules (`secrets`, `string`)
+- User Input (`input()`)
+- Loops (`while`, `for`)
+- Conditional Statements (`if`)
+- Exception Handling (`try-except`)
+- String Manipulation (`join()`)
+- Random Password Generation
+
+## ▶️ Example
+
+```text
+Enter password length: 10
+Password: A8#kP2@mQ!
+```
+
+📌 How It Works
+
+1. The user enters the desired password length.
+2. The program validates the input.
+3. A secure random password is generated using letters, numbers, and special characters.
+4. The generated password is displayed to the user.
+
 🎯 Purpose
 
 These projects were developed to strengthen my Python fundamentals, logical thinking, and problem-solving skills during the DecodeLabs Python Internship.
