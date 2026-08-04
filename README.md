@@ -48,20 +48,14 @@ Concepts Used :
 - User Input
 - Mathematical Operators
 
-## ▶️ Example
+▶️ Example
 ```
 Enter expense 1: 100
-
 Enter expense 2: abc
-
 Invalid Data. Try again.
-
 Enter expense 2: 50
-
 Enter expense 3: 0
-
 Total expense: 150
-
 Number of Expenses: 2
 ```
 ---
@@ -88,14 +82,18 @@ Concepts Used:
 - String Manipulation (`join()`)
 - Random Password Generation
 
-## ▶️ Example
+▶️ Example
 
 ```text
+Enter password length: 0
+Please enter a positive number.
+Enter password length: l
+Invalid Data. Try again.
 Enter password length: 10
 Password: A8#kP2@mQ!
 ```
 
-## 📌 How It Works
+📌 How It Works
 
 1. The user enters the desired password length.
 2. The program validates the input.
